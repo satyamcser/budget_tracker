@@ -80,10 +80,6 @@ A Budget Tracker application featuring an intuitive interface, Bootstrap styling
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or feature requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For any inquiries or feedback, please contact [satyam.entrprnr@gmail.com](mailto:satyam.entrprnr@gmail.com).
